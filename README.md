@@ -1,7 +1,7 @@
 # TO-DO-LIST
 This is a TO DO LIST  page done using express and node 
 
-![Alt Text]("C:\Users\user\Pictures\Screenshots\Screenshot 2024-02-09 183415.png")
+![demo]("Screenshot 2024-02-09 183415.png")
 
 
 # Simple To-Do List App
